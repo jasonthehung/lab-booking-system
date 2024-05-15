@@ -1,0 +1,63 @@
+.lab-container {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border: 2px solid rgb(125, 129, 125);
+}
+
+.lab-description {
+  display: none;
+  font-size: 1.2em; /* Make the text larger */
+  color: #333; /* Dark text color for contrast */
+  background-color: #f9f9f9; /* Light background color */
+  padding: 10px; /* Add some space around the text */
+  border: 1px solid #ddd; /* Add a border */
+  border-radius: 4px; /* Round the corners */
+}
+
+.lab-description-show {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+.lab-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.enter-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 100px;
+}
+
+.leave-btn {
+  background-color: #ca414a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 100px;
+}
