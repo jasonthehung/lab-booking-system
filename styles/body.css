@@ -1,0 +1,17 @@
+h2 {
+  font-size: 28px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 0px;
+  margin: 10px;
+  text-align: center;
+}
